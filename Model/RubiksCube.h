@@ -1,6 +1,7 @@
 //
-// Created by Shubham Patil on 17/12/21.
+// Created by Arin Balyan
 //
+
 
 #ifndef RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
 #define RUBIKS_CUBE_SOLVER_RUBIKSCUBE_H
