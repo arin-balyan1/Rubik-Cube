@@ -1,6 +1,7 @@
 //
-// Created by Lakshya Mittal on 17-02-2022.
+// Created by Arin  Balyan
 //
+
 
 #include "CornerPatternDatabase.h"
 
